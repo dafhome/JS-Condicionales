@@ -1,3 +1,5 @@
+//He probado el bucle while para probar, se que es un poco diferente del ejercicio pero me resultaba curioso. 
+
 let color = prompt("¡Elige un color! Ten en cuenta que no todos son validos.")
 
 let respuesta = "";
